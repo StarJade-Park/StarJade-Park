@@ -20,6 +20,7 @@
 
 - C/C++: MFC, DirectX 11, Win32, FMOD
 - Python: 머신 러닝, GUI(QT)
+- Ruby: RoR(Ruby on Rails)
 
 <!--
 **StarJade-Park/StarJade-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
