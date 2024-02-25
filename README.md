@@ -16,6 +16,11 @@
 - [[모작] Rabi-Ribi](https://github.com/StarJade-Park/2D_Game_Portfolio)
   - C++, DirectX11, Win32 API, FMOD 등을 활용한 2D 플랫포머 게임 데모
 
+### 다뤄본 기술
+
+- C/C++: MFC, DirectX 11, Win32, FMOD
+- Python: 머신 러닝, GUI(QT)
+
 <!--
 **StarJade-Park/StarJade-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
